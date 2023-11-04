@@ -9,10 +9,10 @@ The full name of "Cool" is "The Classroom Object-Oriented Language". It is a sma
 
 ## Assignments
 
+* PA1 - into to cool programming
 * PA2 - Lexical Analysis
 * PA3 - Parsing
 * PA4 - Semantic Analysis
-* PA5 - Code Generation
   
 More information about the project:
 
